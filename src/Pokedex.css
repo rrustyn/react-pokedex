@@ -1,0 +1,10 @@
+.Pokedex {
+    border: 1px solid salmon;
+    display: block;
+    margin: 5px;
+    border-radius: 10px;
+    
+    
+    text-align: center;
+    padding: 5px;
+  }
